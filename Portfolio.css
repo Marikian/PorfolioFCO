@@ -103,9 +103,8 @@ h3 {
     border-radius: 50%;
     box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
 }
-
 .sec-des img:hover {
-  transform: scale(1.1);
+  transform: scale(1.1); 
   transition: transform 0.3s ease;
 }
 
@@ -125,8 +124,8 @@ h3 {
     width: 30vw;
 }
 .exp img:hover {
-  transform: scale(1.1); 
-  transition: transform 0.3s ease; 
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
 }
 
 .exp-left {
@@ -161,23 +160,23 @@ h2 {
     display: flex;
     align-items: center;
 
+}
 
 .project-image {
     width: 30%;
     text-align: right;
 }
-    
 .project-details {
     width: 50%;
-}    
+}
 
 .project-image img {
   border-radius: 10px;
-    width: 40vw;
+    width: 30vw;
 }
 .project-image img:hover {
-  transform: scale(1.1); 
-  transition: transform 0.3s ease; 
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
 }
 
 .number {
@@ -273,9 +272,6 @@ footer p {
     align-items: center;
   }
 
-  .project-image img {
-    width: 70%;
-  }
 
   .footer {
     padding: 1rem;
@@ -316,7 +312,7 @@ footer p {
   }
 
   .right-nav img {
-    height: 30px;
+    height: 40px;
   }
 
   .sec-des {
@@ -358,11 +354,14 @@ footer p {
     padding-inline: 0.5rem;
     font-size: 0.8rem;
   }
-      .project-image {
-    width: 100%; 
+
+  .project-image {
+    width: 100%;
     text-align: center;
   }
+
 }
+
 
 
 
