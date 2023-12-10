@@ -346,19 +346,11 @@ footer p {
     padding-inline: 0.5rem;
     font-size: 0.8rem;
   }
-}
-
-
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
-
-}
-
-
-@media only screen and (min-width: 1024px) {
-  nav {
-    padding: 1rem 3rem 0 3rem;
+      .project-image {
+    width: 100%; 
+    text-align: center;
   }
-
 }
+
 
 
