@@ -47,10 +47,20 @@ a:hover {
     font-size: 1.25rem;
 }
 
+.mid-nav img {
+    width: 30px;
+    height: 30px;
+     filter: invert(4);
+
+}
+
+
 .right-nav img {
     height: 50px;
     border-radius: 50%;
     cursor: pointer;
+    width: 50px;
+    margin-right: 10px;
 }
 
 .mid-info {
